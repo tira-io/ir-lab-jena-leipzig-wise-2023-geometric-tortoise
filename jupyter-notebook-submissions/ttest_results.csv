@@ -1,4 +1,4 @@
 ,T-Test,T-statistic,P-value,necessary significance,accepted
-Hypothesis 1,Two-sided,-0.37718386379043517,0.7075430928256432,0.05,False
-Hypothesis 2,One-sided (greater),-0.37718386379043517,0.6462284535871785,0.025,False
-Hypothesis 3,One-sided (less),-0.37718386379043517,0.3537715464128216,0.025,False
+Hypothesis 1,Two-sided,-1.1730061205883657,0.24603837678629328,0.05,False
+Hypothesis 2,One-sided (greater),-1.1730061205883657,0.8769808116068534,0.025,False
+Hypothesis 3,One-sided (less),-1.1730061205883657,0.12301918839314664,0.025,False
